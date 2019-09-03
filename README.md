@@ -1,6 +1,11 @@
 # Trader
 
+此项目搬运自https://gitee.com/alenhang/Trader
+
+
+
 #### 项目介绍
+
 Trader是一个销售交易软件，后续补充完整。
 
 #### 软件架构
@@ -16,6 +21,7 @@ Trader是一个销售交易软件，后续补充完整。
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1123/183828_d3a088d6_1806689.png "屏幕截图.png")
 点击进入5.10/版本，并且选择exe进行下载
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1123/183937_a7f6bd56_1806689.png "屏幕截图.png")
+
 #### 使用说明
 然后安装
  执行下一步，进入选择界面。
