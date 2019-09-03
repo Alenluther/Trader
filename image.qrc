@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>dataBaseIcon.png</file>
+        <file>quoteTableIcon.png</file>
+        <file>user-512.png</file>
+        <file>menu.png</file>
+    </qresource>
+</RCC>
